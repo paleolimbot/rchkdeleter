@@ -7,3 +7,5 @@ Description: Tries to reproduce a bug with 'rchk'.
 License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.2.0
+URL: https://github.com/paleolimbot/rchkdeleter
+BugReports: https://github.com/paleolimbot/rchkdeleter/issues
