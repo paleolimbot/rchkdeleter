@@ -4,12 +4,12 @@
 \name{rchkdeleter-package}
 \alias{rchkdeleter}
 \alias{rchkdeleter-package}
-\title{rchkdeleter: What the Package Does (One Line, Title Case)}
+\title{rchkdeleter: Try to Reproduce an 'rchk' Deleter Bug}
 \description{
-What the package does (one paragraph).
+Tries to reproduce a bug with 'rchk'.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Dewey Dunnington \email{dewey@fishandwhistle.net}
 
 }
 \keyword{internal}
